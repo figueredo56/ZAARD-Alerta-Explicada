@@ -1,6 +1,14 @@
 # ZAARD-Alerta-Explicada
 Clarificación técnica oficial sobre las alertas de seguridad de ZAARD INNOVATION. Explicación detallada del funcionamiento del contrato ZAARD_Arcade_Vault, diseñado estrictamente para la gestión y distribución automatizada de recompensas a los ganadores de nuestros juegos. Transparencia total para nuestra comunidad y nuevos inversores..
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/figueredo56/ZAARD-Alerta-Explicada/refs/heads/main/CC_20260430_215529.png" alt="ZAARD Alerta" width="100%">
+</p>
+
+---
+---
+
 # 🛡️ ZAARD INNOVATION: Reporte Oficial de Transparencia y Seguridad
 
 Este repositorio ha sido creado por el equipo de desarrollo de **ZAARD INNOVATION** para aclarar de forma pública y técnica el origen de las alertas de seguridad detectadas por escáneres automáticos (como De.Fi, GoPlus y otros).
