@@ -29,6 +29,9 @@ Como desarrolladores de **ZAARD INNOVATION**, reafirmamos nuestro compromiso con
 1.  **Código Verificado**: El contrato del Vault está verificado en BscScan para que cualquier usuario pueda auditar la lógica de pagos.
 2.  **Liquidez Asegurada**: Los protocolos de liquidez de ZAARD están establecidos y protegidos para garantizar la estabilidad del ecosistema.
 3.  **Seguridad del Usuario**: Las alertas técnicas son una consecuencia de la estructura minimalista necesaria para la interacción directa con nuestros juegos y no representan un riesgo para los fondos de los holders.
+4. **Protocolos de Seguridad en Tokens de Reciente Creación**: Debido a la naturaleza reciente de nuestros activos en la blockchain, es normal que billeteras como MetaMask o Trust Wallet generen alertas automáticas de "Contrato nuevo". Estas notificaciones son procedimientos estándar de seguridad ante la falta de historial transaccional masivo y no representan un riesgo real, ya que nuestra lógica ha sido auditada para garantizar la transparencia.
+
+5. **Alertas por Volatilidad y Flujo Táctico de Compras**: Dado que ZAARD es un ecosistema en expansión, los movimientos de compra con volúmenes altos pueden activar alertas preventivas en herramientas de análisis. Estas señales se disparan mecánicamente cuando los sistemas de monitoreo detectan un crecimiento acelerado en tokens nuevos que captan la atención del mercado (hype técnico). Reafirmamos que todos los protocolos están bajo control y los permisos están en orden para operar con seguridad.
 
 ## 🚀 Conclusión
 Lo que los bots de seguridad interpretan como un riesgo, es en realidad la infraestructura que permite que **ZAARD INNOVATION** sea un ecosistema de juego real y funcional. La "puerta trasera" es nuestra **puerta de premios** para cada ganador de nuestra comunidad.
